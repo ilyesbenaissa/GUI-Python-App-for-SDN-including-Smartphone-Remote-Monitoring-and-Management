@@ -8,7 +8,7 @@ To make a good understanding of the Software-Defined Network, we made this proje
 ### Features
 - Real case campus network typology set on Packet Tracer .
 - Cross-platform: Possibility to run the GUI App from Python file "main.py".
-- Open-source : U can add more functions to the code.
+- Open-source : it is free and you can add many network management scripts to the code.
 - Simple, Friednly Use with ease of a DNA Center approach.
 - Smartphone accessibility to Campus Network-Controller through forwarded HTTP port.
 
